@@ -6,6 +6,10 @@ authors = ["JoseGuevara01 <jose.urquiza.guevara@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyter = "^1.0.0"
+Quandl = "^3.6.1"
+sklearn = "^0.0"
+matplotlib = "^3.4.3"
 
 [tool.poetry.dev-dependencies]
 
